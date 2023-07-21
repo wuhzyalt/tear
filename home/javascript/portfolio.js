@@ -17,7 +17,7 @@ $(document).ready(() => {
     },
     {
       name: '@19k',
-      link: '19k',
+      link: 'The19k',
     },
     {
       name: '@z',
