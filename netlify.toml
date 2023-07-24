@@ -7,5 +7,5 @@
     to = "https://bury.lol"
 
     [[redirects]]
-    from = "/s/index.html"
-    to = "/s"
+    from = "/s"
+    to = "/s/index.html"
