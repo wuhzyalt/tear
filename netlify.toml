@@ -6,6 +6,3 @@
     from = "/*"
     to = "https://bury.lol"
 
-    [[redirects]]
-    from = "/s"
-    to = "/s/index.html"
