@@ -9,7 +9,7 @@ $(document).ready(() => {
   const links = [
     {
       name: '@swaz',
-      link: 's',
+      link: 'x',
     },
     {
       name: '@lia',
