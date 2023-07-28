@@ -1,8 +1,8 @@
 [[redirects]]
     from = "/discord"
-    to = "https://discord.gg/bury"
-
-    [[redirects]]
+    to = "https://discord.gg/bury
+    
+[[redirects]]
     from = "/*"
     to = "https://bury.lol"
     status = 404
