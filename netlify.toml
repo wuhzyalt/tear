@@ -4,5 +4,5 @@
 
     [[redirects]]
     from = "/*"
-    to = "/404/404.html"
+    to = "https://bury.lol"
     status = 404
