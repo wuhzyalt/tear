@@ -2,6 +2,6 @@
     from = "/discord"
     to = "https://discord.gg/bury"
     
-    [[redirects]]
+[[redirects]]
     from = "/*"
     to = "https://bury.lol"
