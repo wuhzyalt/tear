@@ -9,7 +9,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['/bury', 'me', 'in', 'roses', '⛧'];
+  brandDescription = ['tear', 'me', 'to', 'pieecs', '⛧'];
 }
 
 const app = new _app();
