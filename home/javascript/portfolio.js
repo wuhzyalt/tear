@@ -13,10 +13,10 @@ $(document).ready(() => {
     },
         {
       name: '@ava',
-      link: 'aa',
+      link: 'ava',
     },
   ];
-
+  
   for (let i in links) {
     let link = links[i];
 
