@@ -13,7 +13,7 @@ $(document).ready(() => {
     },
         {
       name: '@ava',
-      link: 'ava',
+      link: 'aa',
     },
   ];
 
