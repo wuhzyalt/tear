@@ -10,6 +10,7 @@ $(document).ready(() => {
     {
       name: '@draco',
       link: 'x',
+    },
   ];
   
   for (let i in links) {
