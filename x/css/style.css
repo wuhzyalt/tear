@@ -119,6 +119,11 @@ a{
 .social-icons:hover{
     transform: scale(1.1);
 }
+.column{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 .spotifys{
     animation: up 2s;
     margin-bottom: 50px;
