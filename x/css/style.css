@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
-@import url('https://fonts.cdnfonts.com/css/minecraft-4');
+@import url('https://fonts.cdnfonts.com/css/minecraftia');
 @import url('https://fonts.cdnfonts.com/css/strasua');
 
 *{
@@ -12,7 +12,7 @@ html{
     height: 100%;
 }
 body{
-    font-family: "Minecraft", sans-serif;
+    font-family: "Minecraftia", sans-serif;
     color: white;
     background-color: #0d0d0e;
     background-repeat: no-repeat;
