@@ -78,7 +78,7 @@ a{
 }
 .social-icons{
     mrgin-top: 0px;
-    color: white;
+    color: #FFFFFF;
     font-size: 28px;
     trnsition: 0.2s ese-in-out;
 }
@@ -129,6 +129,7 @@ a{
     margin-bottom: 50px;
 }
 .socials{
+    color: #FFFFFF;
     margin: 0 auto;
     animation: up 2s;
     margin-bottom: 30px;
